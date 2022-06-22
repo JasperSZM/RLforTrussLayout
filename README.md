@@ -2,6 +2,8 @@
 
 This is the AI+X course project by Siyang Wu and Zimeng Song, based on Xingcheng Yao's Alpha-truss and directed by Yi Wu, Xianzhong Zhao, and Ruifeng Luo.
 
+**Report**: https://drive.google.com/file/d/1jAQbNJWZKH3Hd4ywD_bNCM-dVMCnTSk7/view?usp=sharing
+
 
 
 ## Stage 1
@@ -40,3 +42,4 @@ For input with noise, use python files under folder `./Stage2/noise`.
 | 7             | 3344        | 2335 | 1912.6      | 1813.7                        | 2110.1                                                       | 1745                                                         |
 | 8             | 2994        | 2568 | 2520        | 2356                          | 2284.4                                                       | 2270.6                                                       |
 | 9             | 2988        | 2582 | 2524        | 2174.8                        | 1985.4                                                       | 1945.1                                                       |
+
